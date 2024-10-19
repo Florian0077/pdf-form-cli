@@ -1,0 +1,70 @@
+[
+    {
+        "type": "text",
+        "page": 0,
+        "position": {
+            "x": 100,
+            "y": 500,
+            "width": 200,
+            "height": 20
+        },
+        "name": "myTextField",
+        "textColor": "#0004ea",
+        "backgroundColor": "#DAF7A6",
+        "value": "Texte par défaut"
+    },
+    {
+        "type": "checkbox",
+        "page": 0,
+        "position": {
+            "x": 100,
+            "y": 450,
+            "width": 20,
+            "height": 20
+        },
+        "name": "myCheckbox",
+        "textColor": "#0004ea",
+        "backgroundColor": "#DAF7A6",
+        "checked": false
+    },
+    {
+        "type": "multiline",
+        "name": "comments",
+        "page": 0,
+        "position": {
+            "x": 100,
+            "y": 50,
+            "width": 300,
+            "height": 100
+        },
+        "textColor": "#0004ea",
+        "backgroundColor": "#DAF7A6",
+        "value": "Texte par défaut multiligne"
+    },
+    {
+        "type": "date",
+        "name": "birthDate",
+        "page": 0,
+        "position": {
+            "x": 100,
+            "y": 550,
+            "width": 150,
+            "height": 20
+        },
+        "textColor": "#0004ea",
+        "backgroundColor": "#DAF7A6"
+    },
+    {
+        "type": "signature",
+        "name": "signature",
+        "page": 0,
+        "position": {
+            "x": 100,
+            "y": 200,
+            "width": 200,
+            "height": 50
+        },
+        "textColor": "#0004ea",
+        "backgroundColor": "#DAF7A6"
+    }
+]
